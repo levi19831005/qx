@@ -1,10 +1,10 @@
 /*
-
+保存自用
 
 [rewrite_local]
 
 #简影解锁会员
-http:\/\/api\.jianmovie\.com\/(cardinfo|productinfo|balance|expense) url script-response-body jianying.js
+http:\/\/api\.jianmovie\.com\/(cardinfo|productinfo|balance|expense) url script-response-body https://raw.githubusercontent.com/levi19831005/qx/main/jianying.js
 
 
 MITM = api.jianmovie.com
