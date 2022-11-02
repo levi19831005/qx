@@ -3,17 +3,14 @@
 脚本功能：Pixelmator Photo+解锁订阅
 下载地址：http://mtw.so/6jcEqo
 软件版本：2.0.14
-脚本作者：彭于晏
 更新时间：2022-9-4
-问题反馈：QQ+89996462
-TG群：https://t.me/plus8889
-使用声明：⚠️此脚本仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
+保存自用
 
 *******************************
 
 [rewrite_local]
 
-https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Pixelmator.js
+https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/levi19831005/qx/main/PixelmatorPhoto.js
 
 [mitm] 
 hostname= api.revenuecat.com
